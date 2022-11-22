@@ -78,7 +78,6 @@ const App = () => {
                     marginBottom:10,
                     borderWidth:1,
                     borderRadius:4,
-                    
                 }}
                 value={search}
                 onChangeText={(e)=>{
